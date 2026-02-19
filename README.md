@@ -1,25 +1,25 @@
-# homebrew-vtt
+# homebrew-voicekit
 
-Homebrew formulas for VTT (Voice-to-Text) CLI tools.
+Homebrew formulas for VoiceKit CLI tools.
 
 ## Install
 
 ```bash
-brew tap chrisjrex/vtt
+brew tap chrisjrex/voicekit
 ```
 
 ### Bundled Version (Apple Silicon)
 
 Includes pre-built Python runtime with all ML packages:
 ```bash
-brew install vtt
+brew install voicekit
 ```
 
 ### Lite Version (All Macs)
 
 Requires manual Python package installation:
 ```bash
-brew install vtt-lite
+brew install voicekit-lite
 ```
 
 ## Documentation
